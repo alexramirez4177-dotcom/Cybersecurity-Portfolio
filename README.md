@@ -1,5 +1,5 @@
 # CYBERSECURITY PORTFOLIO
-
+![Cybersecurity Logo](caballaguila.png)
 ### Aspiring Cybersecurity Analyst
 
 Welcome to my professional cybersecurity portfolio.
